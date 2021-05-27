@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Storage", "E-Storage\E-Storage.csproj", "{988EE7B1-006E-41FB-A070-C141979FFD46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988EE7B1-006E-41FB-A070-C141979FFD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988EE7B1-006E-41FB-A070-C141979FFD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988EE7B1-006E-41FB-A070-C141979FFD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988EE7B1-006E-41FB-A070-C141979FFD46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B173B2A-57EF-40B9-B4C8-F8F5DDF00181}
+	EndGlobalSection
+EndGlobal
